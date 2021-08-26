@@ -4,7 +4,7 @@ O curso pode ser acessado na plataforma da [Digital Innovation One](https://digi
 ## Sobre o Autor
 <img align="left" width="190" height="190" margin-right="150px" src="https://github.com/elifelipe/Portf-lio-do-GitHub/blob/main/73322401_1391645064333646_1487122882822668288_n.jpg"> Estudante Java.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ezequiel_Messore-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezequielmessore/)](https://www.linkedin.com/in/eliifelipe/)  [![Gmail Badge](https://img.shields.io/badge/-ezequielmessore@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ezequielmessore@gmail.com)](mailto:elifelipe@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Eli_Felipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezequielmessore/)](https://www.linkedin.com/in/eliifelipe/)  [![Gmail Badge](https://img.shields.io/badge/-elifelipe@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ezequielmessore@gmail.com)](mailto:elifelipe@hotmail.com)
 
 ## <br />Descrição do Lab.
 Crie um App Android para apresentar seu portfólio de projetos do GitHub de maneira elegante e simplificada. Nesse contexto, você passará por todo o processo de desenvolvimento usando o Kotlin, uma das linguagens de programação de maior ascensão nos últimos anos. Por fim, você é desafiado a entregar seu próprio projeto, incorporando suas próprias evoluções e melhorias! Está preparado?
